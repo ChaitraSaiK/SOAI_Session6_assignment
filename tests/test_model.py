@@ -1,6 +1,6 @@
 import torch
 import pytest
-from Session6_assignment.model import Net
+from model.model import Net
 
 def test_model_structure():
     model = Net()

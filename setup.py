@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Session6_assignment",
+    name="model",
     version="0.1",
     packages=find_packages(),
     install_requires=[
@@ -10,4 +10,4 @@ setup(
         'numpy',
         'tqdm'
     ],
-) 
+)
