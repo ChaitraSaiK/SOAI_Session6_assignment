@@ -1,6 +1,6 @@
 import torch
 import pytest
-from model.model import Net
+from mnist_model.CNN_model import Net
 
 def test_model_structure():
     model = Net()

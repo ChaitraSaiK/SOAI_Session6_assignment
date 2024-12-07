@@ -1,13 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="model",
+    name="mnist_model",
     version="0.1",
     packages=find_packages(),
     install_requires=[
         'torch',
-        'torchvision',
-        'numpy',
-        'tqdm'
+        'pytest',
     ],
 )
