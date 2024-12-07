@@ -1,5 +1,12 @@
 # MNIST Classification with CNN
 
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C.svg)](https://pytorch.org/)
+[![Test Accuracy](https://img.shields.io/badge/Test%20Accuracy-99.43%25-success.svg)]()
+[![Parameters](https://img.shields.io/badge/Parameters-13.2K-informational.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![Tests](https://img.shields.io/github/actions/workflow/status/username/repo/tests.yml?label=tests)](https://github.com/username/repo/actions)
+
 This repository contains a highly optimized CNN model for MNIST digit classification that achieves 99.4% test accuracy in less than 10 epochs with under 20K parameters.
 
 ## Model Architecture
